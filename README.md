@@ -1,2 +1,6 @@
 # hello-world
-Just another repository
+
+Salut la gang!
+
+Je suis un dev passionné et ce projet est juste pour expérimenter...
+
